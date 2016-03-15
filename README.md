@@ -1,4 +1,53 @@
 # Fate Brasil DB
+
+Fate Brasil DB é meu repositório de personagens, cenários, aventuras e extras para Fate Core e Fate Accelerated Edition. Eu vou colocando coisas aqui conforme eu for desenvolvendo, geralmente repostando os materiais daqui na comunidade do Facebook [Fate Brasil - Movimento Fate RPG Brasil](https://www.facebook.com/groups/faterpgbrasil/).
+
+# Conteúdo
+1. Como usar este repositório
+1. Formatação
+1. Licenças
+1. Como contribuir
+
+## Como usar este repositório
+Além das licenças vocês verão aqui alguns diretórios. Cada diretório é auto-explicativo: em *Personagens* você encontrará personagens (podem ser NPCs buchas-de-canhão, tenentes ou mesmo vilões principais); em *Cenários* você encontrará cenários nos quais você poderá narrar ou adaptar para sua narrativa; etc.
+Os arquivos em cada um dos diretórios terão os nomes padronizados da seguinte forma:
+**XXX-tipo-nome.txt**
+*XXX* indicará se o material foi escrito para Fate Core ou Fate Accelerated Edition, conforme indicado na tabela abaixo:
+
+Código | Significado
+--- | ---
+Core | Fate Core
+FAE | Fate Accelerated Edition
+
+Em *tipo* aparecerá a descrição do tipo de material apropriado ao diretório em que ele se encontra. Em *Personagens* ele indica que tipo de personagem o arquivo contém:
+
+Código | Significado
+--- | ---
+less | nameless NPCs
+supp | supporting NPCs
+main | main NPCs
+
+Em *Cenários* e *Aventuras* o tipo se refere à complexidade da aventura ou do cenário, de acordo com a tabela:
+
+Código | Significado
+--- | ---
+draf | cenário ou aventura ainda em rascunho
+shot | cenário ou aventura para one-shot
+s-sz | cenário ou aventura para campanhas curtas
+m-sz | cenário ou aventura para campanhas médias
+l-sz | cenário ou aventura para campanhas longas
+
+Em *Extras* o código de tipo se refere ao custo necessário sugerido para ter aquele extra. Cada código corresponde a um custo, e eles podem ser combinados.
+
+Código | Significado
+--- | ---
+H | Custo em High Concept
+A | Custo em Aspect
+S | Custo em Stunt
+s | Custo em Skill
+R | Custo em Refresh
+
+## Licenças
 Confira aqui meu repositório pessoal de personagens, cenários, aventuras e extras para Fate Core e FAE. Sinta-se à vontade para fazer bom uso do material aqui disponível, mas atente a um detalhe importante: **todo o material aqui está sob licenças GPLv3 e FDLv1.3**, o que significa, entre outras coisas:
 
 1. Você é livre para usar este material para o que quiser, da forma que quiser, para o que você quiser.
@@ -26,3 +75,6 @@ Nota: perceba que nada o impede de cobrar pela redistribuição de qualquer mate
 Eu sei que não é comum distribuir material de RPG sob licença GPLv3 ou FDLv1.3, mas eu as considero as melhores para proteger material original (pois obriga toda e qualquer redistribuição, seja do original ou do material inspirado pelo original) a creditar apropriadamente o autor do material original ao mesmo tempo que não restringe a redistribuição do material.
 
 A licença GPLv3, usada neste repositório, está disponível em seu texto original no arquivo LICENCE_GPL, enquanto a licença FDLv1.3 está no arquivo LICENCE_FDL. A tradução não oficial da licença FDL para português do Brasil está em LICENCE_FDL-pt_BR.
+
+## Como contribuir
+Se você quiser contribuir com meu trabalho sinta-se à vontade! Crie um fork deste repositório, adicione material (obedeça às licenças e aos códigos para nomes de arquivo) e então faça um pull request. Eu analisarei o seu material e se eu gostar dele acrescentarei a este repositório dando a você o devido crédito!
