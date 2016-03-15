@@ -11,7 +11,9 @@ Fate Brasil DB é meu repositório de personagens, cenários, aventuras e extras
 ## Como usar este repositório
 Além das licenças vocês verão aqui alguns diretórios. Cada diretório é auto-explicativo: em *Personagens* você encontrará personagens (podem ser NPCs buchas-de-canhão, tenentes ou mesmo vilões principais); em *Cenários* você encontrará cenários nos quais você poderá narrar ou adaptar para sua narrativa; etc.
 Os arquivos em cada um dos diretórios terão os nomes padronizados da seguinte forma:
+
 **XXX-tipo-nome.txt**
+
 *XXX* indicará se o material foi escrito para Fate Core ou Fate Accelerated Edition, conforme indicado na tabela abaixo:
 
 Código | Significado
