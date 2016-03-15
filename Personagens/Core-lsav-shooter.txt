@@ -10,7 +10,7 @@ Em cenas de tensão dramática este nameless NPC também brilha. Quem nunca assi
 
 Ficha
 
-Nome: Atirador
+Nome: Shooter
 Tipo: Nameless NPC, average
 Aspects: A força está nos números
 Skills: Average (+1) Shoot e Athletics
