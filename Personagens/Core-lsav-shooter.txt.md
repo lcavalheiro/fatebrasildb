@@ -11,6 +11,7 @@ Em cenas de tensão dramática este **nameless NPC** também brilha. Quem nunca 
 ## Ficha
 
 Nome | Atirador
+--- | ---
 Tipo | Nameless NPC, average
 Aspects | ***A força está nos números***
 Skills | Average (+1) Shoot e Athletics
