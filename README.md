@@ -25,7 +25,9 @@ Em *tipo* aparecerá a descrição do tipo de material apropriado ao diretório 
 
 Código | Significado
 --- | ---
-less | nameless NPCs
+lsav | nameless NPCs, average
+lsfr | nameless NPCs, fair
+lsgd | nameless NPCs, good
 supp | supporting NPCs
 main | main NPCs
 
