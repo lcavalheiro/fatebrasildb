@@ -13,5 +13,5 @@ Em situações dramáticas este **nameless NPC** pode contribuir para criar tens
 Nome | Brawler
 --- | ---
 Tipo | Nameless NPC, average
-Aspects | Cara feia pra mim é fome!
+Aspects | ***Cara feia pra mim é fome!***
 Skills | Average (+1) Fight e Provoke
