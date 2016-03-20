@@ -3,7 +3,7 @@
 * *Refresh* inicial: 12
 * *Stunts* iniciais: 3
 * *Skills* iniciais: piramidal, ápice inicial +4
-* Tech inicial: *Extra* [*Tech Level*](../Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md)
+* Tech inicial: *Extra* [*Tech Level*](Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md)
 
 # Tabelas de conversão de perícias e atributos
 
@@ -16,7 +16,7 @@ Dexterity | Athletics
 Endurance | Physique
 Wits | (?)
 Perception | Notice
-Tech | *Extra* [*Tech Level*](../Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md)
+Tech | *Extra* [*Tech Level*](Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md)
 Extrovert | Rapport (?)
 Introvert | (?)
 Passion | (?)
