@@ -55,7 +55,7 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 | --- | --- | --- |
 | Craft: Artisan (Artisan [2]) | Drive: Aircraft (Aircraft) | Lore: Beast (Beast Lore) |
 | Craft: Alchemy (Alchemy) | Drive: Beastcraft (Beastcraft) | Lore: Bureaucracy (Bureaucracy) |
-| Craft: Arts (Arts) | Drive: Landcraft (Landcraft) | Lore: Folk (Folk) |
+| Craft: Arts (Arts) [2] | Drive: Landcraft (Landcraft) | Lore: Folk (Folk) |
 | Craft: First Aid (Remedy) | Drive: Spacecraft (Spacecraft) | Lore: Jumproads (Jumproads) |
 | Craft: High Tech Redemption (High Tech Redemption) | Drive: Watercraft (Watercraft) | Lore: Object (Object) |
 | Craft: Mech Redemption (Mech Redemption) | - | Lore: Regional (Regional) |
@@ -75,11 +75,13 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 | - | - | Lore: Terraforming (Terraforming) [3] |
 | - | - | Lore: Xeno-Biology (Xeno-Biology) |
 | - | - | Lore: Think Machines (Think Machines) |
+| - | - | Lore: Demolitions (Warfare: Demolitions |
+| - | - | Lore: Militar Tatics (Warfare: Militar Tatics) |
 
 Note:
 
 1. Como linha geral, as *Skills* relacionadas a *Lore* e a *Science* em *Fading Suns* serão convertidas como sendo um "pedaço" da *Skill* *Lore* de Fate;
-2. Nos livros originais de *Fading Suns*, *Artisan* é uma perícia descrita como sendo necessário escolher uma especialização para ela. Esta obrigatoriedade foi mantida nesta conversão;
+2. Nos livros originais de *Fading Suns*, a *Skill* é descrita como sendo necessário escolher uma especialização para ela. Esta obrigatoriedade foi mantida nesta conversão;
 3. *Lore: Terraforming* só pode ser adquirida por personagens que tenham as *Skills* *Lore: Geology*, *Lore: Meteorology* e *Lore: Biology* em +4 ou maior, e nunca poderá ter um valor superior ao menor valor possuído pelo personagem nas *Skills* pré-requisitos.
 
 Da mesma forma, *Skills* em *Fading Suns* que são desnecessariamente "quebradas" em *Skills* menores foram "reagrupadas" nesta conversão para Fate. A tabela a seguir detalha o processo de "reagrupamento". Na primeira linha da coluna, temos a *Skill* de Fate na qual as *Skills* de *Fading Suns* foram "reagrupadas".
@@ -110,3 +112,13 @@ O caminho mais simples seria converter cada *Skill* de idioma restante como *Stu
 Outra opção seria converter as *Skills* de idioma como *Extras*, mas isso não me soa apropriado. Apesar de ser uma habilidade importante, ser capaz de falar ou escrever em um idioma em *Fading Suns* é algo poderoso em determinados contextos apenas. Exigir um *Extra* por idioma, ou por cada forma de um idioma, soa como custo exagerado ou excessivo. Da mesma forma, a criação de alguma regra adicional ao Fate introduziria uma complicação no sistema que a princípio não é adequada.
 
 Desta forma, o caminho a ser adotado é o mais simples. Cada forma de um idioma (falar ou ler) será uma *Stunt* distinta, e o número de *Stunts* iniciais de um personagem será aumentado do 3, valor padrão de Fate Core, para 4. Além disso, cada personagem receberá gratuitamente a *Stunt* relativa a falar o idioma padrão de sua espécie (*Stunt: Speak Urthish* para humanos, *Stunt: Speak Ur-Ukar* para os ur-ukar, *Stunt: Speak Ur-Obun* para os ur-obun, e assim sucessivamente). Maiores informações em [*Línguas dos Mundos Conhecidos*](Stunts/Core-draft-Fading-Suns-Linguas-Mundos-Conhecidos.txt.md).
+
+Resta apenas lidar com casos pontuais de conversão de *Skills*. As *Skills* de *Fading Suns* *Performance*, *Survival*, *Torture* e *Warfare* demandam tratamento especial em virtude de não serem convertidas automaticamente para Fate. Elas cobrem habilidades que não aparecem trivialmente na *Skill list* padrão de Fate, e por isso é preciso analisá-las cuidadosamente.
+
+*Performance* representa a capacidade atuação artística do personagem - a capacidade de criação artística em *Fading Suns* é coberta pela *Skill* *Arts*, que se converte bem para uma forma de *Crafts* em Fate. *Performance*, porém, não apresenta uma conversão imediata. A primeira opção seria *Rapport*, mas isso incluiria em uma *Skill* já muito poderosa habilidades demais. Da mesma forma, não parece adequado converter *Performance* em *Crafts*, *Deceive* ou *Empathy* pelos mesmos motivos.
+
+*Survival*
+
+*Torture*
+
+*Warfare* é o caso mais simples de todos. Em *Fading Suns* está é uma *Skill* "quebrada" em outras menores: *Artillery*, *Demolitions*, *Gunnery* e *Militar Tatics*. *Demolitions* e *Militar Tatics* são facilmente convertidas em "pedaços" da *Skill* *Lore* de Fate. Por sua vez, *Artillery* e *Gunnery* serão convertidas como [*Stunt: Artillery*](Stunts/Core-draft-Fading-Suns-Artillery.txt.md) e [*Stunt: Gunnery*](Stunts/Core-draft-Fading-Suns-Gunnery.txt.md), ambas associadas à *Skill* *Shoot*.
