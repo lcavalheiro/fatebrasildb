@@ -1,6 +1,6 @@
 # Guia de Conversão de *Fading Suns* para Fate Core
 
-1. Descrição e objetivos
+1. [Descrição e objetivos](#descrições-e-objetivos)
 1. Criação de personagem
   1. Conversão das *Characteristics*
   1. *Wyrd points*
