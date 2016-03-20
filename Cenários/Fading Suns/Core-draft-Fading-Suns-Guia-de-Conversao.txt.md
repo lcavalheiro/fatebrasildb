@@ -61,6 +61,7 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 | - | - | Lore: Think Machines (Think Machines) |
 
 Note:
+
 1. Como linha geral, as *Skills* relacionadas a *Lore* e a *Science* em *Fading Suns* serão convertidas como sendo um "pedaço" da *Skill* *Lore* de Fate;
 2. *Lore: Terraforming* só pode ser adquirida por personagens que tenham as *Skills* *Lore: Geology*, *Lore: Meteorology* e *Lore: Biology* em +4 ou maior, e nunca poderá ter um valor superior ao menor valor possuído pelo personagem nas *Skills* pré-requisitos.
 
