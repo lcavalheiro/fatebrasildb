@@ -26,7 +26,55 @@ A criação de personagem obedecerá os padrões e normas estabelecidos pelo Fat
 * *Refresh* inicial: 10
 * *Stunts* iniciais: 3
 * *Skills* iniciais: pirâmide com ápice em +4
-* *Extras* iniciais: todo personagem de jogador em *Fading Suns* começa com o *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md), que poderá ser aprimorado de acordo com a descrição do *Extra*. A afiliação do personagem a uma *Noble House*, à *Merchant League* ou a um *Church Sect* deve ser adquirida pelo *Extra* pertinente: respectivamente, [*Nobreza*](Extras/Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro da Liga*](Extras/Core-draft-Fading-Suns-para-Fate-Membro-da-Liga.txt.md) ou [*Sacerdote*](Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md). A afiliação do personagem a grupos dentro de sua afiliação (como, por exemplo, um *al-Malik Mutasih* ou um *Charioteer Kilroy*) deve ser adquirida por meio de um *Aspect* relevante (que pode ser o mesmo *High Concept* necessário para a aquisição do *Extra*)
+* *Aspects*: *High Concept*, *Trouble*, mais três *Aspects*
+* *Extras* iniciais: todo personagem de jogador em *Fading Suns* começa com o *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md), que poderá ser aprimorado de acordo com a descrição do *Extra*. A afiliação do personagem a uma *Noble House*, à *Merchant League* ou a um *Church Sect* deve ser adquirida pelo *Extra* pertinente: respectivamente, [*Nobreza*](Extras/Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro da Liga*](Extras/Core-draft-Fading-Suns-para-Fate-Membro-da-Liga.txt.md) ou [*Sacerdote*](Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md). A afiliação do personagem a grupos dentro de sua afiliação (como, por exemplo, um *al-Malik Mutasih* ou um *Charioteer Kilroy*) deve ser adquirida por meio de um *Aspect* relevante (que pode ser o mesmo *High Concept* necessário para a aquisição do *Extra*). Afiliação a grupos problemáticos, como um *psychic coven* ou uma célula do *Third Era*, é melhor representada pelo *Trouble* do personagem.
+
+## *Skill list*
+
+Esta conversão usa a *skill list* padrão de Fate Core. Entretanto, como um dos temas de *Fading Suns* é a fragmentação do conhecimento e sua subsequente perda, não é condizente a existência de *Skills* amplas como *Craft* e *Lore*. Assim sendo, cada uma das *Skills* mais amplas de Fate foi "quebrada" em *Skills* menores para acomodar as *Skills* de *Fading Suns*.
+
+A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A primeira célula de cada coluna mostra qual *Skill* de Fate foi "quebrada", enquanto as demais células daquela coluna lista em quais "pedaços" a *Skill* foi "quebrada", com o nome da *Skill* original de *Fading Suns* entre parênteses.
+
+| Craft | Drive | Lore |
+| --- | --- | --- |
+| Craft: Artisan (Artisan) | Drive: Aircraft (Aircraft) | Lore: Beast (Beast Lore) |
+| Craft: Alchemy (Alchemy) | Drive: Beastcraft (Beastcraft) | Lore: Bureaucracy (Bureaucracy) |
+| Craft: Arts (Arts) | Drive: Landcraft (Landcraft) | Lore: Folk (Folk) |
+| Craft: First Aid (Remedy) | Drive: Spacecraft (Spacecraft) | Lore: Jumproads (Jumproads) |
+| Craft: High Tech Redemption (High Tech Redemption) | Drive: Watercraft (Watercraft) | Lore: Object (Object) |
+| Craft: Mech Redemption (Mech Redemption) | - | Lore: Regional (Regional) |
+| Craft: Volt Redemption (Volt Redemption) | - | Lore: Xeno (Xeno) |
+| - | - | Lore: Medicine (Physick) |
+| - | - | Lore: Anthropology (Anthropology) |
+| - | - | Lore: Archaeology (Archaeology) |
+| - | - | Lore: Astronomy (Astronomy) |
+| - | - | Lore: Biology (Biology) |
+| - | - | Lore: Chemistry (Chemistry) |
+| - | - | Lore: Cybernetics (Cybernetics) |
+| - | - | Lore: Engineering (Engineering) |
+| - | - | Lore: Genetics (Genetics) |
+| - | - | Lore: Geology (Geology) |
+| - | - | Lore: Meteorolgy (Meteorolgy) |
+| - | - | Lore: Physics (Physics) |
+| - | - | Lore: Terraforming (Terraforming) [1] |
+| - | - | Lore: Xeno-Biology (Xeno-Biology) |
+| - | - | Lore: Think Machines (Think Machines) |
+
+Note:
+1. *Lore: Terraforming* só pode ser adquirida por personagens que tenham as *Skills* *Lore: Geology*, *Lore: Meteorology* e *Lore: Biology* em +4 ou maior, e nunca poderá ter um valor superior ao menor valor possuído pelo personagem nas *Skills* pré-requisitos.
+
+Da mesma forma, *Skills* em *Fading Suns* que são desnecessariamente "quebradas" em *Skills* menores foram "reagrupadas" nesta conversão para Fate. A tabela a seguir detalha o processo de "reagrupamento". Na primeira linha da coluna, temos a *Skill* de Fate na qual as *Skills* de *Fading Suns* foram "reagrupadas".
+
+| Rapport | Shoot | Fight |
+| --- | --- | --- |
+| Acting | Archery | Fight |
+| Debate | Crossbow | Meele |
+| Leadership | Shoot | - |
+| Oratory | Throwing | - |
+
+As *Combat Actions*, *Fencing Actions* e *Martial Arts* são habilidades em *Fading Suns* que acionam opções de ações disponíveis para o personagem ou alteram o funcionamento de alguma regra. Adicionalmente, essas habilidades são organizadas em estilos e, em alguns casos, árvores de dependências. Assim, elas foram convertidas para Fate Core como *Stunts trees*: [*Combat Actions*](Stunts/Core-draft-Fading-Suns-Combat-Actions.txt.md), [*Fencing Actions*](Stunts/Core-draft-Fading-Suns-Fencing-Actions.txt.md) e [*Martial Arts*](Stunts/Core-draft-Fading-Suns-Martial-Arts.txt.md).
+
+Outras duas *Skills* em *Fading Suns* foram traduzidas para *Stunts*. Na busca por simplicidade, *Xeno-Empathy* foi demovida de *Skill* para uma *Stunt* da *Skill Empathy*, a [*Stunt: Xeno-Empathy*](Stunts/Core-draft-Fading-Suns-Xeno-Empathy.txt.md). Da mesma forma, a habilidade de usar um *Spacesuit* sem penalidades foi convertida como uma *Stunt*, [*Stunt: Spacesuit*](Stunts/Core-draft-Fading-Suns-Spacesuit.txt.md).
 
 ### Tabelas de conversão de perícias e atributos
 
