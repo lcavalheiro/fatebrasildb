@@ -6,7 +6,7 @@
   1. [*Wyrd points*](#wyrd-points)
   1. [*Skill list*](#skill-list)
     1. [Casos específicos](#casos-específicos)
-      1. [*Combat Actions*, *Fencing Actions* e *Martial Arts*](#combat-actions-fencing-actionse-martial-arts)
+      1. [*Combat Actions*, *Fencing Actions* e *Martial Arts*](#combat-actions-fencing-actions-e-martial-arts)
       1. [*Xeno-Empathy* e *Spacesuit*](#xeno-empathy-e-spacesuit)
       1. [*Skills* relacionadas a idiomas](#skills-relacionadas-a-idiomas)
       1. [Casos finais](#casos-finais)
