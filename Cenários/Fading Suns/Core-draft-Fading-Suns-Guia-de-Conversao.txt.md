@@ -161,7 +161,7 @@ Por questão de simplicidade em caso de futuras edições, a [**Tabela de conver
 
 1. Uma *Blessing* ou *Curse* que descreva a aparência do personagem será convertida como um *Aspect*;
 1. Uma *Blessing* ou *Curse* que descreva o tamanho do personagem será convertida como um *Aspect* (lembrando que o *Trouble* é um *Aspect*);
-1. Uma *Blessing* ou *Injury* que descreva uma incapacitação do personagem será convertida como um *Trouble*;
+1. Uma *Blessing* ou *Curse* que descreva uma incapacitação do personagem será convertida como um *Trouble*;
 1. Uma *Blessing* ou *Curse* que confira bônus situacionais para alguma *Skill* com base em algum comportamento do personagem será convertida como um *Stunt*;
 1. Uma *Blessing* ou *Curse* que confira bônus situacionais em alguma *Skill* com base em alguma afinidade do personagem será convertidos como *Stunts* daquela *Skill*
 1. Uma *Blessing* ou *Curse* que confira bônus situacionais em alguma *Skill* com base na reputação do personagem será convertida como uma *Stunt* de *Contacts*, *Rapport* ou *Provoke*, conforme for mais apropriado.
