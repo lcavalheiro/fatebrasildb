@@ -72,7 +72,7 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 | - | - | Lore: Geology (Geology) |
 | - | - | Lore: Meteorolgy (Meteorolgy) |
 | - | - | Lore: Physics (Physics) |
-| - | - | Lore: Terraforming (Terraforming) [2] |
+| - | - | Lore: Terraforming (Terraforming) [3] |
 | - | - | Lore: Xeno-Biology (Xeno-Biology) |
 | - | - | Lore: Think Machines (Think Machines) |
 
