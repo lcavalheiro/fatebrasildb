@@ -1,17 +1,18 @@
 # Guia de Conversão de *Fading Suns* para Fate Core
 
 1. [Descrição e objetivos](#descrições-e-objetivos)
-1. Criação de personagem
-  1. Conversão das *Characteristics*
-  1. *Wyrd points*
-  1. *Skill list*
-    1. Casos específicos
-      1. *Combat Actions*, *Fencing Actions* e *Martial Arts*
-      1. *Xeno-Empathy* e *Spacesuit*
-      1. *Skills* relacionadas a idiomas
-      1. Casos finais
-    1. Tabela de conversão de *Skills* de *Fading Suns* para Fate
-  1. *Blessings* e *Curses*
+1. [Criação de personagem](#criação-de-personagem)
+  1. [Conversão das *Characteristics*](#conversão-das-characteristics)
+  1. [*Wyrd points*](#wyrd-points)
+  1. [*Skill list*](#skill-list)
+    1. [Casos específicos](#casos-específicos)
+      1. [*Combat Actions*, *Fencing Actions* e *Martial Arts*](#combat-actions-fencing-e-martial-arts)
+      1. [*Xeno-Empathy* e *Spacesuit*](#xeno-empathy-e-spacesuit)
+      1. [*Skills* relacionadas a idiomas](#skills-relacionadas-a-idiomas)
+      1. [Casos finais](#casos-finais)
+    1. [Tabela de conversão de *Skills* de *Fading Suns* para Fate](#tabela-de-conversão-de-skills-de-fading-suns-para-fate)
+  1. [*Blessings* e *Curses*](#blessings-e-curses)
+  1. [*Benefices* e *Afflictions*](#benefices-e-afflictions)
 
 ## Descrições e objetivos
 
