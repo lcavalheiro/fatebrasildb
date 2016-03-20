@@ -60,7 +60,7 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 | Craft: High Tech Redemption (High Tech Redemption) | Drive: Watercraft (Watercraft) | Lore: Object (Object) |
 | Craft: Mech Redemption (Mech Redemption) | - | Lore: Regional (Regional) |
 | Craft: Volt Redemption (Volt Redemption) | - | Lore: Xeno (Xeno) |
-| Craft: Survival (Survival) | - | Lore: Medicine (Physick) |
+| - | - | Lore: Medicine (Physick) |
 | - | - | Lore: Anthropology (Anthropology) |
 | - | - | Lore: Archaeology (Archaeology) |
 | - | - | Lore: Astronomy (Astronomy) |
@@ -79,6 +79,7 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 | - | - | Lore: Militar Tatics (Warfare: Militar Tatics) |
 | - | - | Lore: Performance (Performance [2] ) |
 | - | - | Lore: Torture (Torture) |
+| - | - | Lore: Survival (Survival) |
 
 Note:
 
@@ -123,7 +124,7 @@ Resta apenas lidar com casos pontuais de conversão de *Skills*. As *Skills* de 
 
 Para essas duas *Skills* será adotada uma solução parcialmente inspirada na segunda consideração: elas existirão de maneira independente como "pedaços" de outras *Skills* de Fate. Isso permite que um personagem se torne o especialista no assunto sem a necessidade de criação de uma nova *Skill*
 
-*Survival* envolve o conhecimento prático de muitas habilidades manuais, bem como a localização e criação de meios para obtenção de alimentos. Note que a obtenção em si pode exigir outras *Skills*, como *Athletics* para subir em uma árvore ou *Shoot* para disparar uma flecha contra um coelho, mas uma pessoa com conhecimentos em *Survival* é capaz de criar uma armadilha para coelhos ou um arco e flechas com materiais encontráveis no ambiente. Os itens criados pelo uso de *Survival* são improvisados e não tem nem a sombra da qualidade daqueles criados pelo uso da *Skill* adequada (normalmente um *Craft: Artisan* apropriado), mas são bons o bastante para aguentar as vicissitudes do meio até o personagem ser capaz de atravessar o ambiente hostil. Já os aspectos teóricos envolvidos em *Survival* são do tipo que se adquire empiricamente, como rastrear um animal por meio de suas pegadas ou outros indícios, ou saber se uma tempestade está próxima. Dessa forma, *Survival* parece pertencer mais à *Crafts* do que à *Lore*, e portanto a *Skill* *Survival* de *Fading Suns* será convertida para *Craft: Survival*.
+*Survival* envolve o conhecimento prático ou empírico de muitas habilidades manuais, bem como a localização e criação de meios para obtenção de alimentos. Note que a obtenção em si pode exigir outras *Skills*, como *Athletics* para subir em uma árvore ou *Shoot* para disparar uma flecha contra um coelho, mas uma pessoa com conhecimentos em *Survival* é capaz de criar uma armadilha para coelhos ou um arco e flechas com materiais encontráveis no ambiente. Como *Survival* envolve o conhecimento de como sobreviver em ambiente hostil (incluindo improvisar abrigo ou obter comida mesmo em condições adversas), ela se converte bem como um pedaço da *Skill Lore* de Fate.
 
 No caso de *Torture*, esse corpo de conhecimentos específicos aplicados a um determinado objetivo combina conhecimentos práticos ou empíricos de anatomia, fisiologia e psicologia: saber qual é a parte do corpo mais sujeita à dor, saber como pressionar psicologicamente uma pessoa, e toda sorte de práticas associadas à tortura. Parece mais que natural, isso tudo considerado, que *Torture* seja um "pedaço" da *Skill Lore* de Fate.
 
