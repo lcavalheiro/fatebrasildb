@@ -1,9 +1,7 @@
 # Ajustes
 
 Inicial *Refresh*: 8
-
 Inicial *Stunts*: 3
-
 Inicial *Skills*: piramidal, ápice inicial +4
 
 # Tabela de conversão de perícias
