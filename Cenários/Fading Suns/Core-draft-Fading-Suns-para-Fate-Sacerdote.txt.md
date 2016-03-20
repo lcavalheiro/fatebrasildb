@@ -9,7 +9,7 @@ Favor ler os livros da Hollistic Design® para maiores informações sobre as ca
 * Custo em pontos de *Refresh*: conforme a tabela abaixo:
 
 Custo em *Refresh*[1] | Orthodox/Avesti/Aeon | Brother | Battle | Eskatonic
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 1 | Novitiate | Novitiate | Apprentice
 2 | Canon | Oblate | Provost
 3 | Deacon | Acolyte | Illuminatus
