@@ -11,6 +11,7 @@
       1. *Skills* relacionadas a idiomas
       1. Casos finais
     1. Tabela de conversão de *Skills* de *Fading Suns* para Fate
+  1. *Blessings* e *Curses*
 
 ## Descrições e objetivos
 
@@ -36,6 +37,7 @@ A criação de personagem obedecerá os padrões e normas estabelecidos pelo Fat
 * *Stunts* iniciais: 4, mais o *Stunt: Speak Language* apropriado à espécie do personagem (*Stunt: Speak Urthish* para humanos, *Stunt: Speak Ur-Ukar* para ur-ukar, etc.)
 * *Skills* iniciais: pirâmide com ápice em +4
 * *Aspects*: *High Concept*, *Trouble*, mais três *Aspects*
+* Espécie: *High Concept* apropriado (ver [*Espécies em Fading Suns*](Aspects/Core-draft-Fading-Suns-Guia-de-Conversao-Species.txt.md) para maior detalhamento.
 * *Extras* iniciais: todo personagem de jogador em *Fading Suns* começa com o *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md), que poderá ser aprimorado de acordo com a descrição do *Extra*. A afiliação do personagem a uma *Noble House*, à *Merchant League* ou a um *Church Sect* deve ser adquirida pelo *Extra* pertinente: respectivamente, [*Nobreza*](Extras/Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro da Liga*](Extras/Core-draft-Fading-Suns-para-Fate-Membro-da-Liga.txt.md) ou [*Sacerdote*](Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md). A afiliação do personagem a grupos dentro de sua afiliação (como, por exemplo, um *al-Malik Mutasih* ou um *Charioteer Kilroy*) deve ser adquirida por meio de um *Aspect* relevante (que pode ser o mesmo *High Concept* necessário para a aquisição do *Extra*). Afiliação a grupos problemáticos, como um *psychic coven* ou uma célula do *Third Era*, é melhor representada pelo *Trouble* do personagem.
 
 ### Conversão das *Characteristics*
@@ -152,3 +154,19 @@ No caso de *Torture*, esse corpo de conhecimentos específicos aplicados a um de
 #### Tabela de conversão de *Skills* de *Fading Suns* para Fate
 
 Por questão de simplicidade em caso de futuras edições, a [**Tabela de conversão de *Skills* de *Fading Suns* para Fate**](Core-draft-Fading-Suns-Guia-de-Conversao-Tabela.txt.md) se encontra em outra página deste projeto.
+
+### *Blessings* e *Curses*
+
+*Blessings* e *Curses* são peculiaridades possuídas por um personagem de *Fading Suns* para representar certos aspectos de sua aparência, fama ou personalidade, bem como maior talento em determinadas *Skills*. A conversão de *Blessings* e *Curses* para Fate obedecerá aos seguintes critérios aplicados de acordo com a seguinte priorização:
+
+1. Uma *Blessing* ou *Curse* que descreva a aparência do personagem será convertida como um *Aspect*;
+1. Uma *Blessing* ou *Curse* que descreva o tamanho do personagem será convertida como um *Aspect* (lembrando que o *Trouble* é um *Aspect*);
+1. Uma *Blessing* ou *Injury* que descreva uma incapacitação do personagem será convertida como um *Trouble*;
+1. Uma *Blessing* ou *Curse* que confira bônus situacionais para alguma *Skill* com base em algum comportamento do personagem será convertida como um *Stunt*;
+1. Uma *Blessing* ou *Curse* que confira bônus situacionais em alguma *Skill* com base em alguma afinidade do personagem será convertidos como *Stunts* daquela *Skill*
+1. Uma *Blessing* ou *Curse* que confira bônus situacionais em alguma *Skill* com base na reputação do personagem será convertida como uma *Stunt* de *Contacts*, *Rapport* ou *Provoke*, conforme for mais apropriado.
+
+Isso dito, a [**Tabela de conversão das *Blessings* e *Curses* de *Fading Suns* para Fate**](Core-draft-Fading-Suns-Guia-de-Conversao-Tabela-Blessings-Curses.txt.md) fará uma análise caso-a-caso das *Blessings* e *Curses* e suas conversões para Fate.
+
+### *Benefices* e *Afflictions*
+*Benefices* e *Afflicions* representam vantagens e desvantagens que os personagens de *Fading Suns* desfrutam em virtude de sua posição social. Ao contrário das *Skills*, *Blessings* e *Curses*, a maioria dos *Benefices* e *Afflictions* funciona melhor como *Extras* ou *Aspects*. Considerando que oferecer aqui uma lista concisa de conversão dos *Benefices* e *Afflictions* provavelmente resultará em um texto confuso, esse assunto será melhor detalhado em [**Conversão de *Benefices* e *Afflictions* de *Fading Suns* para Fate**](Core-draft-Fading-Suns-Guia-de-Conversao-Benefices-Afflictions.txt.md).
