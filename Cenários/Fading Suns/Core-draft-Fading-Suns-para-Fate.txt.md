@@ -3,8 +3,8 @@
 * *Refresh* inicial: 10
 * *Stunts* iniciais: 3
 * *Skills* iniciais: piramidal, ápice inicial +4
-* *Tech* inicial: *Extra* [*Tech Level*](Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md)
-* Afiliações: ser um nobre, um membro da Liga Mercante ou da Igreja requer o *Extra* apropriado: [*Nobreza*](Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro de Guilda*](Core-draft-Fading-Suns-para-Fate-Membro-de-Guilda.txt.md) e [*Sacerdote*](Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md)
+* *Tech* inicial: *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md)
+* Afiliações: ser um nobre, um membro da Liga Mercante ou da Igreja requer o *Extra* apropriado: [*Nobreza*](Extras/Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro de Guilda*](Extras/Core-draft-Fading-Suns-para-Fate-Membro-de-Guilda.txt.md) e [*Sacerdote*](Extras/Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md)
 
 # Tabelas de conversão de perícias e atributos
 
