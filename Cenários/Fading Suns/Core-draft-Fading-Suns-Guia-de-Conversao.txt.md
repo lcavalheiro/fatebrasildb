@@ -98,11 +98,19 @@ Da mesma forma, *Skills* em *Fading Suns* que são desnecessariamente "quebradas
 | Etiquette | - | - | - | - |
 | Charm | - | - | - | - |
 
+#### Casos específicos
+
+##### *Combat Actions*, *Fencing Actions* e *Martial Arts*
+
 As *Combat Actions*, *Fencing Actions* e *Martial Arts* são habilidades em *Fading Suns* que acionam opções de ações disponíveis para o personagem ou alteram o funcionamento de alguma regra. Adicionalmente, essas habilidades são organizadas em estilos e, em alguns casos, árvores de dependências. Assim, elas foram convertidas para Fate Core como *Stunts trees*: [*Combat Actions*](Stunts/Core-draft-Fading-Suns-Combat-Actions.txt.md), [*Fencing Actions*](Stunts/Core-draft-Fading-Suns-Fencing-Actions.txt.md) e [*Martial Arts*](Stunts/Core-draft-Fading-Suns-Martial-Arts.txt.md).
+
+##### *Xeno-Empathy* e *Spacesuit*
 
 Outras duas *Skills* em *Fading Suns* foram traduzidas para *Stunts*. Na busca por simplicidade, *Xeno-Empathy* foi demovida de *Skill* para uma *Stunt* da *Skill Empathy*, a [*Stunt: Xeno-Empathy*](Stunts/Core-draft-Fading-Suns-Xeno-Empathy.txt.md). Da mesma forma, a habilidade de usar um *Spacesuit* sem penalidades foi convertida como uma *Stunt*, [*Stunt: Spacesuit*](Stunts/Core-draft-Fading-Suns-Spacesuit.txt.md).
 
-Algumas *Skills* de *Fading Suns* não permitem uma conversão direta e apresentam problemas adicionais. As *Skills* relacionadas à idiomas em *Fading Suns* são "quebradas" em *Read* e *Speak*, permitindo que um personagem saiba falar mas não escrever em um determinado idioma. Isso acrescenta uma profundidade adicional ao cenário, criando um ambiente crível no qual houve a deterioração e perda do conhecimento do passado, mas converter isso para Fate é um desafio à parte.
+##### *Skills* relacionadas a idiomas
+
+Algumas *Skills* de *Fading Suns* não permitem uma conversão direta e apresentam problemas adicionais. As *Skills* relacionadas a idiomas em *Fading Suns* são "quebradas" em *Read* e *Speak*, permitindo que um personagem saiba falar mas não escrever em um determinado idioma. Isso acrescenta uma profundidade adicional ao cenário, criando um ambiente crível no qual houve a deterioração e perda do conhecimento do passado, mas converter isso para Fate é um desafio à parte.
 
 Os caso mais simples das *Skills* de idioma são a *Graceful Tongue*, a linguagem de metáforas da *House al-Malik*, e o *Scraver Cant*, a língua própria dos *Scravers*. Em ambos os casos, um *High Concept* apropriado permitirá ao personagem conhecer essas *Skills* automaticamente. Para um personagem que não tenha como *High Concept* ser um al-Malik *Graceful Tongue* deve ser adquirida como uma *Stunt* associada à *Rapport*, e para um personagem que não tenha como *High Concept* ser um Scraver *Scraver Cant* deve ser adquirido como uma *Stunt* associada à *Notice*.
 
@@ -115,6 +123,8 @@ O caminho mais simples seria converter cada *Skill* de idioma restante como *Stu
 Outra opção seria converter as *Skills* de idioma como *Extras*, mas isso não me soa apropriado. Apesar de ser uma habilidade importante, ser capaz de falar ou escrever em um idioma em *Fading Suns* é algo poderoso em determinados contextos apenas. Exigir um *Extra* por idioma, ou por cada forma de um idioma, soa como custo exagerado ou excessivo. Da mesma forma, a criação de alguma regra adicional ao Fate introduziria uma complicação no sistema que a princípio não é adequada.
 
 Desta forma, o caminho a ser adotado é o mais simples. Cada forma de um idioma (falar ou ler) será uma *Stunt* distinta, e o número de *Stunts* iniciais de um personagem será aumentado do 3, valor padrão de Fate Core, para 4. Além disso, cada personagem receberá gratuitamente a *Stunt* relativa a falar o idioma padrão de sua espécie (*Stunt: Speak Urthish* para humanos, *Stunt: Speak Ur-Ukar* para os ur-ukar, *Stunt: Speak Ur-Obun* para os ur-obun, e assim sucessivamente). Maiores informações em [*Línguas dos Mundos Conhecidos*](Stunts/Core-draft-Fading-Suns-Linguas-Mundos-Conhecidos.txt.md).
+
+##### Casos finais
 
 Resta apenas lidar com casos pontuais de conversão de *Skills*. As *Skills* de *Fading Suns* *Performance*, *Survival*, *Torture* e *Warfare* demandam tratamento especial em virtude de não serem convertidas automaticamente para Fate. Elas cobrem habilidades que não aparecem trivialmente na *Skill list* padrão de Fate, e por isso é preciso analisá-las cuidadosamente.
 
