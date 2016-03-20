@@ -104,4 +104,4 @@ Warfare | (?)
 * Demolitions | (?)
 * Gunnery | (?)
 * Militar Tactics | (?)
-Xeno-empathy | Empathy + stunt apropriada
+Xeno-empathy | Empathy + stunt apropriada (?)
