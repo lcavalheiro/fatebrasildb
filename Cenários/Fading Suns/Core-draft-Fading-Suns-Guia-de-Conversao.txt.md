@@ -29,7 +29,7 @@ A criação de personagem obedecerá os padrões e normas estabelecidos pelo Fat
 * *Aspects*: *High Concept*, *Trouble*, mais três *Aspects*
 * *Extras* iniciais: todo personagem de jogador em *Fading Suns* começa com o *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md), que poderá ser aprimorado de acordo com a descrição do *Extra*. A afiliação do personagem a uma *Noble House*, à *Merchant League* ou a um *Church Sect* deve ser adquirida pelo *Extra* pertinente: respectivamente, [*Nobreza*](Extras/Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro da Liga*](Extras/Core-draft-Fading-Suns-para-Fate-Membro-da-Liga.txt.md) ou [*Sacerdote*](Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md). A afiliação do personagem a grupos dentro de sua afiliação (como, por exemplo, um *al-Malik Mutasih* ou um *Charioteer Kilroy*) deve ser adquirida por meio de um *Aspect* relevante (que pode ser o mesmo *High Concept* necessário para a aquisição do *Extra*). Afiliação a grupos problemáticos, como um *psychic coven* ou uma célula do *Third Era*, é melhor representada pelo *Trouble* do personagem.
 
-## *Skill list*
+### *Skill list*
 
 Esta conversão usa a *skill list* padrão de Fate Core. Entretanto, como um dos temas de *Fading Suns* é a fragmentação do conhecimento e sua subsequente perda, não é condizente a existência de *Skills* amplas como *Craft* e *Lore*. Assim sendo, cada uma das *Skills* mais amplas de Fate foi "quebrada" em *Skills* menores para acomodar as *Skills* de *Fading Suns*.
 
