@@ -53,7 +53,7 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 
 | Craft | Drive | Lore [1] |
 | --- | --- | --- |
-| Craft: Artisan (Artisan) | Drive: Aircraft (Aircraft) | Lore: Beast (Beast Lore) |
+| Craft: Artisan (Artisan [2]) | Drive: Aircraft (Aircraft) | Lore: Beast (Beast Lore) |
 | Craft: Alchemy (Alchemy) | Drive: Beastcraft (Beastcraft) | Lore: Bureaucracy (Bureaucracy) |
 | Craft: Arts (Arts) | Drive: Landcraft (Landcraft) | Lore: Folk (Folk) |
 | Craft: First Aid (Remedy) | Drive: Spacecraft (Spacecraft) | Lore: Jumproads (Jumproads) |
@@ -79,7 +79,8 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 Note:
 
 1. Como linha geral, as *Skills* relacionadas a *Lore* e a *Science* em *Fading Suns* serão convertidas como sendo um "pedaço" da *Skill* *Lore* de Fate;
-2. *Lore: Terraforming* só pode ser adquirida por personagens que tenham as *Skills* *Lore: Geology*, *Lore: Meteorology* e *Lore: Biology* em +4 ou maior, e nunca poderá ter um valor superior ao menor valor possuído pelo personagem nas *Skills* pré-requisitos.
+2. Nos livros originais de *Fading Suns*, *Artisan* é uma perícia descrita como sendo necessário escolher uma especialização para ela. Esta obrigatoriedade foi mantida nesta conversão;
+3. *Lore: Terraforming* só pode ser adquirida por personagens que tenham as *Skills* *Lore: Geology*, *Lore: Meteorology* e *Lore: Biology* em +4 ou maior, e nunca poderá ter um valor superior ao menor valor possuído pelo personagem nas *Skills* pré-requisitos.
 
 Da mesma forma, *Skills* em *Fading Suns* que são desnecessariamente "quebradas" em *Skills* menores foram "reagrupadas" nesta conversão para Fate. A tabela a seguir detalha o processo de "reagrupamento". Na primeira linha da coluna, temos a *Skill* de Fate na qual as *Skills* de *Fading Suns* foram "reagrupadas".
 
