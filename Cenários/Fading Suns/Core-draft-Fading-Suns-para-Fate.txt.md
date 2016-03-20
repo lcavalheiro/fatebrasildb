@@ -4,21 +4,27 @@
 * Inicial *Stunts*: 3
 * Inicial *Skills*: piramidal, ápice inicial +4
 
-# Tabela de conversão de perícias
+# Tabelas de conversão de perícias e atributos
+
+## Atributos
+
+## Perícias naturais
+
+## Perícias aprendidas
 
 Fading Suns | Fate
 --- | ---
-Academia |
-Acrobatics |
-Alchemy |
-Archery |
-Artisan |
-Arts |
-Beast Lore |
-Bureaucracy |
-Combat Actions |
-* Fencing |
-* Martial Arts |
+Academia | Investigate
+Acrobatics | Athletics
+Alchemy | Craft: Alchemy
+Archery | Shoot
+Artisan | Craft
+Arts | Craft
+Beast Lore | Lore: Beast
+Bureaucracy | Lore: Bureaucracy
+Combat Actions | Stunts
+* Fencing
+* Martial Arts
 Crossbow |
 Disguise |
 Drive |
