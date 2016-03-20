@@ -2,6 +2,15 @@
 
 1. Descrição e objetivos
 1. Criação de personagem
+  1. Conversão das *Characteristics*
+  1. *Wyrd points*
+  1. *Skill list*
+    1. Casos específicos
+      1. *Combat Actions*, *Fencing Actions* e *Martial Arts*
+      1. *Xeno-Empathy* e *Spacesuit*
+      1. *Skills* relacionadas a idiomas
+      1. Casos finais
+    1. Tabela de conversão de *Skills* de *Fading Suns* para Fate
 
 ## Descrições e objetivos
 
@@ -139,3 +148,5 @@ Para essas duas *Skills* será adotada uma solução parcialmente inspirada na s
 No caso de *Torture*, esse corpo de conhecimentos específicos aplicados a um determinado objetivo combina conhecimentos práticos ou empíricos de anatomia, fisiologia e psicologia: saber qual é a parte do corpo mais sujeita à dor, saber como pressionar psicologicamente uma pessoa, e toda sorte de práticas associadas à tortura. Parece mais que natural, isso tudo considerado, que *Torture* seja um "pedaço" da *Skill Lore* de Fate.
 
 *Warfare* é o caso mais simples de todos. Em *Fading Suns* está é uma *Skill* "quebrada" em outras menores: *Artillery*, *Demolitions*, *Gunnery* e *Militar Tatics*. *Demolitions* e *Militar Tatics* são facilmente convertidas em "pedaços" da *Skill* *Lore* de Fate. Por sua vez, *Artillery* e *Gunnery* serão convertidas como [*Stunt: Artillery*](Stunts/Core-draft-Fading-Suns-Artillery.txt.md) e [*Stunt: Gunnery*](Stunts/Core-draft-Fading-Suns-Gunnery.txt.md), ambas associadas à *Skill* *Shoot*.
+
+#### Tabela de conversão de *Skills* de *Fading Suns* para Fate
