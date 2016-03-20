@@ -35,7 +35,7 @@ Esta conversão usa a *skill list* padrão de Fate Core. Entretanto, como um dos
 
 A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A primeira célula de cada coluna mostra qual *Skill* de Fate foi "quebrada", enquanto as demais células daquela coluna lista em quais "pedaços" a *Skill* foi "quebrada", com o nome da *Skill* original de *Fading Suns* entre parênteses.
 
-| Craft | Drive | Lore |
+| Craft | Drive | Lore [1] |
 | --- | --- | --- |
 | Craft: Artisan (Artisan) | Drive: Aircraft (Aircraft) | Lore: Beast (Beast Lore) |
 | Craft: Alchemy (Alchemy) | Drive: Beastcraft (Beastcraft) | Lore: Bureaucracy (Bureaucracy) |
@@ -56,21 +56,23 @@ A tabela a seguir mostra como se deu o processo de "quebra" das *Skills*. A prim
 | - | - | Lore: Geology (Geology) |
 | - | - | Lore: Meteorolgy (Meteorolgy) |
 | - | - | Lore: Physics (Physics) |
-| - | - | Lore: Terraforming (Terraforming) [1] |
+| - | - | Lore: Terraforming (Terraforming) [2] |
 | - | - | Lore: Xeno-Biology (Xeno-Biology) |
 | - | - | Lore: Think Machines (Think Machines) |
 
 Note:
-1. *Lore: Terraforming* só pode ser adquirida por personagens que tenham as *Skills* *Lore: Geology*, *Lore: Meteorology* e *Lore: Biology* em +4 ou maior, e nunca poderá ter um valor superior ao menor valor possuído pelo personagem nas *Skills* pré-requisitos.
+1. Como linha geral, as *Skills* relacionadas a *Lore* e a *Science* em *Fading Suns* serão convertidas como sendo um "pedaço" da *Skill* *Lore* de Fate;
+2. *Lore: Terraforming* só pode ser adquirida por personagens que tenham as *Skills* *Lore: Geology*, *Lore: Meteorology* e *Lore: Biology* em +4 ou maior, e nunca poderá ter um valor superior ao menor valor possuído pelo personagem nas *Skills* pré-requisitos.
 
 Da mesma forma, *Skills* em *Fading Suns* que são desnecessariamente "quebradas" em *Skills* menores foram "reagrupadas" nesta conversão para Fate. A tabela a seguir detalha o processo de "reagrupamento". Na primeira linha da coluna, temos a *Skill* de Fate na qual as *Skills* de *Fading Suns* foram "reagrupadas".
 
-| Rapport | Shoot | Fight |
-| --- | --- | --- |
-| Acting | Archery | Fight |
-| Debate | Crossbow | Meele |
-| Leadership | Shoot | - |
-| Oratory | Throwing | - |
+| Rapport | Shoot | Fight | Investigate | Notice |
+| --- | --- | --- | --- | --- |
+| Acting | Archery | Fight | Academia | Perception (Characteristic) |
+| Debate | Crossbow | Meele | Inquiry | Observe |
+| Leadership | Shoot | - | - | - |
+| Oratory | Throwing | - | - | - |
+| Charm | - | - | - | - |
 
 As *Combat Actions*, *Fencing Actions* e *Martial Arts* são habilidades em *Fading Suns* que acionam opções de ações disponíveis para o personagem ou alteram o funcionamento de alguma regra. Adicionalmente, essas habilidades são organizadas em estilos e, em alguns casos, árvores de dependências. Assim, elas foram convertidas para Fate Core como *Stunts trees*: [*Combat Actions*](Stunts/Core-draft-Fading-Suns-Combat-Actions.txt.md), [*Fencing Actions*](Stunts/Core-draft-Fading-Suns-Fencing-Actions.txt.md) e [*Martial Arts*](Stunts/Core-draft-Fading-Suns-Martial-Arts.txt.md).
 
