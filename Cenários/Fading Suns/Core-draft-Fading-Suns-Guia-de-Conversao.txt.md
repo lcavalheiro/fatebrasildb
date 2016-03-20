@@ -89,6 +89,7 @@ Da mesma forma, *Skills* em *Fading Suns* que são desnecessariamente "quebradas
 | Debate | Crossbow | Meele | Inquiry | Observe |
 | Leadership | Shoot | - | Tracking | - |
 | Oratory | Throwing | - | - | - |
+| Etiquette | - | - | - | - |
 | Charm | - | - | - | - |
 
 As *Combat Actions*, *Fencing Actions* e *Martial Arts* são habilidades em *Fading Suns* que acionam opções de ações disponíveis para o personagem ou alteram o funcionamento de alguma regra. Adicionalmente, essas habilidades são organizadas em estilos e, em alguns casos, árvores de dependências. Assim, elas foram convertidas para Fate Core como *Stunts trees*: [*Combat Actions*](Stunts/Core-draft-Fading-Suns-Combat-Actions.txt.md), [*Fencing Actions*](Stunts/Core-draft-Fading-Suns-Fencing-Actions.txt.md) e [*Martial Arts*](Stunts/Core-draft-Fading-Suns-Martial-Arts.txt.md).
