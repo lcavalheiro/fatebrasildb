@@ -87,7 +87,7 @@ Da mesma forma, *Skills* em *Fading Suns* que são desnecessariamente "quebradas
 | --- | --- | --- | --- | --- |
 | Acting | Archery | Fight | Academia | Perception (Characteristic) |
 | Debate | Crossbow | Meele | Inquiry | Observe |
-| Leadership | Shoot | - | - | - |
+| Leadership | Shoot | - | Tracking | - |
 | Oratory | Throwing | - | - | - |
 | Charm | - | - | - | - |
 
