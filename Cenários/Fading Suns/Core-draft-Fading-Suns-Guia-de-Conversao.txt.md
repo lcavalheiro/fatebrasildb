@@ -37,7 +37,7 @@ A criação de personagem obedecerá os padrões e normas estabelecidos pelo Fat
 * *Stunts* iniciais: 4, mais o *Stunt: Speak Language* apropriado à espécie do personagem (*Stunt: Speak Urthish* para humanos, *Stunt: Speak Ur-Ukar* para ur-ukar, etc.)
 * *Skills* iniciais: pirâmide com ápice em +4
 * *Aspects*: *High Concept*, *Trouble*, mais três *Aspects*
-* Espécie: *High Concept* apropriado (ver [*Espécies em Fading Suns*](Aspects/Core-draft-Fading-Suns-Guia-de-Conversao-Species.txt.md) para maior detalhamento.
+* Espécie: *High Concept* apropriado (ver [*Espécies em Fading Suns*](Aspects/Core-draft-Fading-Suns-Guia-de-Conversao-Species.txt.md) para maior detalhamento).
 * *Extras* iniciais: todo personagem de jogador em *Fading Suns* começa com o *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md), que poderá ser aprimorado de acordo com a descrição do *Extra*. A afiliação do personagem a uma *Noble House*, à *Merchant League* ou a um *Church Sect* deve ser adquirida pelo *Extra* pertinente: respectivamente, [*Nobreza*](Extras/Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro da Liga*](Extras/Core-draft-Fading-Suns-para-Fate-Membro-da-Liga.txt.md) ou [*Sacerdote*](Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md). A afiliação do personagem a grupos dentro de sua afiliação (como, por exemplo, um *al-Malik Mutasih* ou um *Charioteer Kilroy*) deve ser adquirida por meio de um *Aspect* relevante (que pode ser o mesmo *High Concept* necessário para a aquisição do *Extra*). Afiliação a grupos problemáticos, como um *psychic coven* ou uma célula do *Third Era*, é melhor representada pelo *Trouble* do personagem.
 
 ### Conversão das *Characteristics*
