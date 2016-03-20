@@ -8,7 +8,34 @@
 
 ## Atributos
 
+Fading Suns | Fate 
+--- | ---
+Strength | Physique
+Dexterity | Athletics
+Endurance | Physique
+Wits | (?)
+Perception | Notice
+Tech | (?)
+Extrovert | Rapport (?)
+Introvert | (?)
+Passion | (?)
+Calm | (?)
+Faith | (?)
+Ego | Will (?)
+
 ## Perícias naturais
+
+Fading Suns | Fate
+--- | ---
+Charm | Rapport
+Dodge | Athletics
+Fight | Fight
+Impress | Provoke
+Meele | Fight
+Observe | Notice
+Shoot | Shoot
+Sneak | Stealth
+Vigour | Physique
 
 ## Perícias aprendidas
 
