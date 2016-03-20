@@ -2,7 +2,9 @@
 
 Tech Level (TL) é a medida da familiaridade de um personagem com os diferentes níveis de desenvolvimento tecnológico disponíveis em Fading Suns. No sistema original o TL de um personagem é medido por seu atributo *Tech*, mas não me parece sensato criar uma *skill* em Fate só para isso.
 
-Usarei, pois, outra abordagem e tratarei o TL de um personagem como um Extra com o qual todos começam em um determinado nível mas que pode ser melhorado ao custo de pontos de *Refresh*.
+Usarei, pois, outra abordagem e tratarei o TL de um personagem como um *Extra* com o qual todos começam em um determinado nível mas que pode ser melhorado ao custo de pontos de *Refresh*. Como o nível inicial de qualquer atributo, incluindo Tech,  em Fate é 3, o valor inicial do *Extra* *Tech Level* é 3. É possível para um personagem aprimorar seu *Tech Level* inicial investindo pontos de *Refresh* neste *Extra*.
+
+Para descrição de como funciona o *Tech Level* em Fading Suns bem como exemplos de tecnologias pertencentes a cada Tech Level favor consultar o livro *Fading Suns*, 2ª edição em inglês, página 200.
 
 ## Tabela de Tech Level em Fading Suns e Fate
 
