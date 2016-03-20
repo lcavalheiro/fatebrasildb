@@ -24,7 +24,7 @@ Este **Guia** não lidará com:
 A criação de personagem obedecerá os padrões e normas estabelecidos pelo Fate Core. Da mesma forma, como não será feita descrição de instituições ou lugares nesta conversão pressupõe-se que os jogadores e o narrador conheçam mais ou menos bem o cenário de *Fading Suns*
 
 * *Refresh* inicial: 10
-* *Stunts* iniciais: 3
+* *Stunts* iniciais: 4, mais o *Stunt: Speak Language* apropriado à espécie do personagem (*Stunt: Speak Urthish* para humanos, *Stunt: Speak Ur-Ukar* para ur-ukar, etc.)
 * *Skills* iniciais: pirâmide com ápice em +4
 * *Aspects*: *High Concept*, *Trouble*, mais três *Aspects*
 * *Extras* iniciais: todo personagem de jogador em *Fading Suns* começa com o *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md), que poderá ser aprimorado de acordo com a descrição do *Extra*. A afiliação do personagem a uma *Noble House*, à *Merchant League* ou a um *Church Sect* deve ser adquirida pelo *Extra* pertinente: respectivamente, [*Nobreza*](Extras/Core-draft-Fading-Suns-para-Fate-Nobreza.txt.md), [*Membro da Liga*](Extras/Core-draft-Fading-Suns-para-Fate-Membro-da-Liga.txt.md) ou [*Sacerdote*](Core-draft-Fading-Suns-para-Fate-Sacerdote.txt.md). A afiliação do personagem a grupos dentro de sua afiliação (como, por exemplo, um *al-Malik Mutasih* ou um *Charioteer Kilroy*) deve ser adquirida por meio de um *Aspect* relevante (que pode ser o mesmo *High Concept* necessário para a aquisição do *Extra*). Afiliação a grupos problemáticos, como um *psychic coven* ou uma célula do *Third Era*, é melhor representada pelo *Trouble* do personagem.
@@ -97,131 +97,16 @@ As *Combat Actions*, *Fencing Actions* e *Martial Arts* são habilidades em *Fad
 
 Outras duas *Skills* em *Fading Suns* foram traduzidas para *Stunts*. Na busca por simplicidade, *Xeno-Empathy* foi demovida de *Skill* para uma *Stunt* da *Skill Empathy*, a [*Stunt: Xeno-Empathy*](Stunts/Core-draft-Fading-Suns-Xeno-Empathy.txt.md). Da mesma forma, a habilidade de usar um *Spacesuit* sem penalidades foi convertida como uma *Stunt*, [*Stunt: Spacesuit*](Stunts/Core-draft-Fading-Suns-Spacesuit.txt.md).
 
-### Tabelas de conversão de perícias e atributos
+Algumas *Skills* de *Fading Suns* não permitem uma conversão direta e apresentam problemas adicionais. As *Skills* relacionadas à idiomas em *Fading Suns* são "quebradas" em *Read* e *Speak*, permitindo que um personagem saiba falar mas não escrever em um determinado idioma. Isso acrescenta uma profundidade adicional ao cenário, criando um ambiente crível no qual houve a deterioração e perda do conhecimento do passado, mas converter isso para Fate é um desafio à parte.
 
-#### Characteristics
+Os caso mais simples das *Skills* de idioma são a *Graceful Tongue*, a linguagem de metáforas da *House al-Malik*, e o *Scraver Cant*, a língua própria dos *Scravers*. Em ambos os casos, um *High Concept* apropriado permitirá ao personagem conhecer essas *Skills* automaticamente. Para um personagem que não tenha como *High Concept* ser um al-Malik *Graceful Tongue* deve ser adquirida como uma *Stunt* associada à *Rapport*, e para um personagem que não tenha como *High Concept* ser um Scraver *Scraver Cant* deve ser adquirido como uma *Stunt* associada à *Notice*.
 
-Fading Suns | Fate 
---- | ---
-Strength | Physique
-Dexterity | Athletics
-Endurance | Physique
-Wits | (?)
-Perception | Notice
-Tech | *Extra* [*Tech Level*](Extras/Core-draft-Fading-Suns-para-Fate-Tech-Level.txt.md)
-Extrovert | Rapport (?)
-Introvert | (?)
-Passion | (?)
-Calm | (?)
-Faith | (?)
-Ego | Will (?)
+O próximo caso em grau de dificuldade é *Read Urthtech*, a *Skill* que permite tanto ler quando falar o idioma usado como jargão técnico. Conhecer o jargão técnico usado pelos cientistas e engenheiros da *Second Republic* é uma vantagem incrível para quem está procurando resgatar tecnologia daquele período ou usar os desenvolvimentos técnicos mais recentes da Liga Mercante, mas não é relevante fora desses contextos. Desta forma, *Read Urthtech* deve ser adquirida como a [*Stunt: Read Urthtech*](Stunts/Core-draft-Fading-Suns-Read-Urthtech.txt.md).
 
-#### Perícias naturais
+As demais *Skills* de idioma em *Fading Suns* são um assunto realmente espinhoso. Para manter o aspecto de perda do conhecimento próprio do cenário, qualquer que seja a abordagem dado à questão deve preservar a divisão entre as *Skills* que permitem ler um idioma e as *Skills* que permitem falá-lo. Dito isso, descarta-se imediatamente converter os idiomas de *Fading Suns* para *Skills* de Fate, pois no sistema original de regras uma vez que uma forma do idioma (isto é, leitura ou fala) seja conhecida pelo personagem não é preciso nenhum tipo de teste para ler ou falar naquele idioma.
 
-Fading Suns | Fate
---- | ---
-Charm | Rapport
-Dodge | Athletics
-Fight | Fight
-Impress | Provoke
-Meele | Fight
-Observe | Notice
-Shoot | Shoot
-Sneak | Stealth
-Vigour | Physique
+O caminho mais simples seria converter cada *Skill* de idioma restante como *Stunts*, tal como foi feito com a *Graceful Tongue*, o *Scraver Cant* e o *Read Urthtech*. Porém, respeitando o que foi dito no parágrafo anterior, ter-se-ia que criar duas *Stunts* por idioma: uma relacionada à capacidade de leitura naquele idioma, e outra relacionada à habilidade de falá-lo. Entretanto, em um primeiro momento não se cogita tal abordagem. O número de *Stunts* iniciais precisaria ser aumentado, pois apenas 3 não seriam suficientes para cobrir a quantidade de habilidades que um personagem possa querer ter.
 
-#### Perícias aprendidas
+Outra opção seria converter as *Skills* de idioma como *Extras*, mas isso não me soa apropriado. Apesar de ser uma habilidade importante, ser capaz de falar ou escrever em um idioma em *Fading Suns* é algo poderoso em determinados contextos apenas. Exigir um *Extra* por idioma, ou por cada forma de um idioma, soa como custo exagerado ou excessivo. Da mesma forma, a criação de alguma regra adicional ao Fate introduziria uma complicação no sistema que a princípio não é adequada.
 
-Fading Suns | Fate
---- | ---
-Academia | Investigate
-Acrobatics | Athletics
-Alchemy | Craft: Alchemy
-Archery | Shoot
-Artisan | Craft
-Arts | Craft
-Beast Lore | Lore: Beast
-Bureaucracy | Lore: Bureaucracy
-Combat Actions | Stunts
-* Fencing | Stunts: Fencing
-* Martial Arts | Stunts: Fencing
-Crossbow | Shoot
-Disguise | Deceive
-Drive | Drive (perícia subdividida)
-* Aircraft | Drive: Aircraft
-* Beastcraft | Drive: Beastcraft
-* Landcraft | Drive: Landcraft
-* Spacecraft (guild skill) | Drive: Spacecraft (guild skill)
-* Watercraft | Drive: Watercraft
-Empathy | Empathy
-Etiquette | Rapport (?)
-Focus | Will
-Gambling | Burglary (?)
-Inquiry | Investigate
-Knavery | Burglary
-Lockpicking | Burglary
-Lore | Lore (perícia subdividida)
-* Folk | Lore: Folk
-* Jumproads | Lore: Jumproads
-* Object | Lore: Object
-* Regional | Lore: Regional
-* Xeno | Lore: Xeno
-Performance | Rapport (?)
-Physick | Lore: Medicine
-Read | (?)
-* Barbarian | (?)
-* Latin | (?)
-* Urthish | (?)
-* Urthtech | (?)
-* Xeno | (?)
-Remedy | Craft: First Aid
-Ride | Drive: Ride
-Science (guild skill) | Lore (guild skill) (perícia subdividida)
-* Anthropology | Lore: Anthropology
-* Archaeology | Lore: Archaeology
-* Astronomy | Lore: Astronomy
-* Biology | Lore: Biology
-* Chemistry | Lore: Chemistry
-* Cybernetics | Lore: Cybernetics
-* Engineering | Lore: Engineering
-* Genetics | Lore: Genetics
-* Geology | Lore: Geology
-* Meteorolgy | Lore: Meteorology
-* Physics | Lore: Physics
-* Terraforming | Lore: Terraforming (requer Lore: Geology, Lore: Meteorolgy e Lore: Biology em pelo menos +3, não pode ser maior que nenhuma dessas três skills)
-* Xeno-biology | Lore: Xeno-biology
-Search | Investigate
-Sleight of Hand | Burglary
-Social | Rapport
-* Acting | Rapport
-* Debate | Rapport
-* Leadership | Rapport
-* Oratory | Rapport
-Spacesuit (guild skill) | (?)
-Speak | (?)
-* Barbarian | (?)
-* Graceful Tongue (al-Malik skill) | (?)
-* Dialects | (?)
-* Latin | (?)
-* Scraver Cant (Scraver skill) | (?)
-* Urthish | (?)
-* Xeno | (?)
-Stoic Body | Physique
-Stoic Mind | Will
-Streetwise | Burglary
-Survival | (?)
-Tech Redemption (guild skill) | Craft (guild skill)
-* Craft Redemption | Craft: Craft Redemption
-* High-Tech Redemption | Craft: High-Tech Redemption
-* Mech Redemption | Craft: Mech Redemption
-* Volt Redemption | Craft: Volt Redemption
-Think Machine (guild skill) | Lore: Think Machine (guild skill)
-Throwing | Shoot
-Torture | Provoke (?)
-Tracking | (?)
-Warfare | (?)
-* Artillery | (?)
-* Demolitions | (?)
-* Gunnery | (?)
-* Militar Tactics | (?)
-Xeno-empathy | Empathy + stunt apropriada (?)
+Desta forma, o caminho a ser adotado é o mais simples. Cada forma de um idioma (falar ou ler) será uma *Stunt* distinta, e o número de *Stunts* iniciais de um personagem será aumentado do 3, valor padrão de Fate Core, para 4. Além disso, cada personagem receberá gratuitamente a *Stunt* relativa a falar o idioma padrão de sua espécie (*Stunt: Speak Urthish* para humanos, *Stunt: Speak Ur-Ukar* para os ur-ukar, *Stunt: Speak Ur-Obun* para os ur-obun, e assim sucessivamente). Maiores informações em [*Línguas dos Mundos Conhecidos*](Stunts/Core-draft-Fading-Suns-Linguas-Mundos-Conhecidos.txt.md).
