@@ -20,7 +20,7 @@ TL | Descrição em Fading Suns | Custo em *Refresh* para Fate[1]
 9 | Lesser Urtech | n/d[3]
 10 | Urtech | n/d[3]
 
-Notas
-1. Os custos em *Refresh* não são cumulativos. Logo, para passar de TL 5 para TL 6 é preciso apenas 1 ponto de *Refresh*;
-2. Como o TL inicial de um personagem é 3, não foram definidos custos em *Refresh* para valores inferiores ao inicial;
+Notas:  
+1. Os custos em *Refresh* não são cumulativos. Logo, para passar de TL 5 para TL 6 é preciso apenas 1 ponto de *Refresh*;  
+2. Como o TL inicial de um personagem é 3, não foram definidos custos em *Refresh* para valores inferiores ao inicial;  
 3. Custos para TL 9 ou 10 não foram definidos porque: a) o valor inicial máximo de qualquer atributo em Fading Suns é 8; b) é preciso uma razão muito boa para que um personagem conheça Urtech.
