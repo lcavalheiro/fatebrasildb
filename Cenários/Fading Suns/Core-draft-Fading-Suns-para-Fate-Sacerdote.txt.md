@@ -8,14 +8,14 @@ Favor ler os livros da Hollistic Design® para maiores informações sobre as ca
 * Custo em aspectos: *High Concept* vinculando o personagem a alguma das ordens da Igreja do Sol Universal
 * Custo em pontos de *Refresh*: conforme a tabela abaixo:
 
-Custo em *Refresh*[1] | Orthodox/Avesti/Aeon | Brother | Battle | Eskatonic
---- | --- | --- | --- | ---
+Custo em *Refresh*[1] | Orthodox/Avesti/Aeon | Brother Battle | Eskatonic
+--- | --- | --- | --- 
 1 | Novitiate | Novitiate | Apprentice
 2 | Canon | Oblate | Provost
 3 | Deacon | Acolyte | Illuminatus
 4 | Priest | Adept | Philosophus
 5 | Bishop | Master | Magister
-6 | Archbishop | Grand | Master | Presbuteros
+6 | Archbishop | Grand Master | Presbuteros
 
 Observações:
 1. O custo em *Refresh* não é cumulativo. Logo, para um Eskatonic ser promovido de Philsophus a Magister ele precisará pagar apenas 1 ponto de *Refresh*
