@@ -13,6 +13,12 @@
     1. [Tabela de conversão de *Skills* de *Fading Suns* para Fate](#tabela-de-conversão-de-skills-de-fading-suns-para-fate)
   1. [*Blessings* e *Curses*](#blessings-e-curses)
   1. [*Benefices* e *Afflictions*](#benefices-e-afflictions)
+  1. [*Vitality* e *Wyrd*](#vitality-e-wyrd)
+  1. [*Occult powers*](#occult-powers)
+    1. [*Psychic powers*](#psychic-powers)
+    1. [*Theurgy rituals*](#theurgy-rituals)
+    1. [*Antinomy spells*](#antinomy-spells)
+    1. [Estrutura geral da conversão dos *Occult Powers* de *Fading Suns* para *Fate*](#estrutura-geral-da-conversão-dos-occult-powers-de-fading-suns-para-fate)
 
 ## Descrições e objetivos
 
@@ -122,13 +128,13 @@ Outras duas *Skills* em *Fading Suns* foram traduzidas para *Stunts*. Na busca p
 
 ##### *Skills* relacionadas a idiomas
 
-Algumas *Skills* de *Fading Suns* não permitem uma conversão direta e apresentam problemas adicionais. As *Skills* relacionadas a idiomas em *Fading Suns* são "quebradas" em *Read* e *Speak*, permitindo que um personagem saiba falar mas não escrever em um determinado idioma. Isso acrescenta uma profundidade adicional ao cenário, criando um ambiente crível no qual houve a deterioração e perda do conhecimento do passado, mas converter isso para Fate é um desafio à parte.
+Algumas *Skills* de *Fading Suns* não permitem uma conversão direta e apresentam problemas adicionais. As *Skills* relacionadas a idiomas em *Fading Suns* são "quebradas" em *Read* e *Speak*, permitindo que um personagem saiba falar mas não escrever em um determinado idioma. Isso acrescenta uma profundidade adicional ao cenário, criando um ambiente verossímil no qual houve a deterioração e perda do conhecimento do passado, mas converter isso para Fate é um desafio à parte.
 
 Os caso mais simples das *Skills* de idioma são a *Graceful Tongue*, a linguagem de metáforas da *House al-Malik*, e o *Scraver Cant*, a língua própria dos *Scravers*. Em ambos os casos, um *High Concept* apropriado permitirá ao personagem conhecer essas *Skills* automaticamente. Para um personagem que não tenha como *High Concept* ser um al-Malik *Graceful Tongue* deve ser adquirida como uma *Stunt* associada à *Rapport*, e para um personagem que não tenha como *High Concept* ser um Scraver *Scraver Cant* deve ser adquirido como uma *Stunt* associada à *Notice*.
 
 O próximo caso em grau de dificuldade é *Read Urthtech*, a *Skill* que permite tanto ler quando falar o idioma usado como jargão técnico. Conhecer o jargão técnico usado pelos cientistas e engenheiros da *Second Republic* é uma vantagem incrível para quem está procurando resgatar tecnologia daquele período ou usar os desenvolvimentos técnicos mais recentes da Liga Mercante, mas não é relevante fora desses contextos. Desta forma, *Read Urthtech* deve ser adquirida como a [*Stunt: Read Urthtech*](Stunts/Core-draft-Fading-Suns-Read-Urthtech.txt.md).
 
-As demais *Skills* de idioma em *Fading Suns* são um assunto realmente espinhoso. Para manter o aspecto de perda do conhecimento próprio do cenário, qualquer que seja a abordagem dado à questão deve preservar a divisão entre as *Skills* que permitem ler um idioma e as *Skills* que permitem falá-lo. Dito isso, descarta-se imediatamente converter os idiomas de *Fading Suns* para *Skills* de Fate, pois no sistema original de regras uma vez que uma forma do idioma (isto é, leitura ou fala) seja conhecida pelo personagem não é preciso nenhum tipo de teste para ler ou falar naquele idioma.
+As demais *Skills* de idioma em *Fading Suns* são um assunto realmente espinhoso. Para manter o aspecto de perda do conhecimento próprio do cenário, qualquer que seja a abordagem dado à questão deve preservar a divisão entre as *Skills* que permitem ler um idioma e as *Skills* que permitem falá-lo. Dito isso, descarta-se imediatamente converter os idiomas de *Fading Suns* para *Skills* de Fate, pois no sistema original de regras quando o personagem conhece uma forma (leitura ou escrita) de um idioma ele consegue usá-la sem testes.
 
 O caminho mais simples seria converter cada *Skill* de idioma restante como *Stunts*, tal como foi feito com a *Graceful Tongue*, o *Scraver Cant* e o *Read Urthtech*. Porém, respeitando o que foi dito no parágrafo anterior, ter-se-ia que criar duas *Stunts* por idioma: uma relacionada à capacidade de leitura naquele idioma, e outra relacionada à habilidade de falá-lo. Entretanto, em um primeiro momento não se cogita tal abordagem. O número de *Stunts* iniciais precisaria ser aumentado, pois apenas 3 não seriam suficientes para cobrir a quantidade de habilidades que um personagem possa querer ter.
 
@@ -140,7 +146,7 @@ Desta forma, o caminho a ser adotado é o mais simples. Cada forma de um idioma 
 
 Resta apenas lidar com casos pontuais de conversão de *Skills*. As *Skills* de *Fading Suns* *Performance*, *Survival*, *Torture* e *Warfare* demandam tratamento especial em virtude de não serem convertidas automaticamente para Fate. Elas cobrem habilidades que não aparecem trivialmente na *Skill list* padrão de Fate, e por isso é preciso analisá-las cuidadosamente.
 
-*Performance* representa a capacidade atuação artística do personagem - a capacidade de criação artística em *Fading Suns* é coberta pela *Skill* *Arts*, que se converte bem para uma forma de *Crafts* em Fate. *Performance*, porém, não apresenta uma conversão imediata. A primeira opção seria *Rapport*, mas isso incluiria em uma *Skill* já muito poderosa habilidades demais. Da mesma forma, não parece adequado converter *Performance* em *Crafts*, *Deceive* ou *Empathy* pelos mesmos motivos. Porém, como *Performance* é uma *Skill* em *Fading Suns* para a qual é preciso escolher uma especialização e considerando que ela inclui o saber fazer como seu componente principal, o que inclui a teoria por trás desse saber fazer, *Performance* se converte muito bem como um "pedaço" da *Skill Lore* em Fate.
+*Performance* representa a capacidade atuação artística do personagem - a capacidade de criação artística em *Fading Suns* é coberta pela *Skill* *Arts*, que se converte bem para uma forma de *Crafts* em Fate. *Performance*, porém, não apresenta uma conversão imediata. A primeira opção seria *Rapport*, mas isso incluiria em uma *Skill* já muito poderosa habilidades demais. Da mesma forma, não parece adequado converter *Performance* em *Crafts*, *Deceive* ou *Empathy* pelos mesmos motivos. Porém, como *Performance* é uma *Skill* em *Fading Suns* para a qual é preciso escolher uma especialização e considerando que ela inclui o saber fazer como seu componente principal, o que inclui a teoria por trás desse saber fazer, *Performance* se converte muito bem como um "pedaço" da *Skill Lore* em Fate - seguindo aqui o mesmo raciocínio que norteou a conversão das *Skills* *Lore* e *Science*.
 
 *Survival* e *Torture* são casos mais complicados. Realisticamente falando, essas duas *Skills* combinam conhecimentos específicos de outras *Skills* para formar um corpo de conhecimentos e práticas aplicados a um determinado objetivo - sobreviver em ambientes hostis ou obter informações de outras pessoas por meio da aplicação de dano físico ou psicológico. Por um lado, isso significa que não haveria dificuldades para converter essas *Skills* em *Skill challenges*, mas essa abordagem tem como consequência impedir que um personagem se destaque como especialista em *Survival* ou em *Torture* (isto é, tenha uma *Skill* em +4 dedicada ao tema). Por outro lado, elas têm razão para existirem como *Skills* individuais, permitindo que um personagem se destaque como especialista nelas, mas tal abordagem pode correr o risco de introduzir novas *Skills* ao Fate.
 
@@ -154,7 +160,7 @@ No caso de *Torture*, esse corpo de conhecimentos específicos aplicados a um de
 
 #### Tabela de conversão de *Skills* de *Fading Suns* para Fate
 
-Por questão de simplicidade em caso de futuras edições, a [**Tabela de conversão de *Skills* de *Fading Suns* para Fate**](Core-draft-Fading-Suns-Guia-de-Conversao-Tabela.txt.md) se encontra em outra página deste projeto.
+Por questão de simplicidade para futuras edições, a [**Tabela de conversão de *Skills* de *Fading Suns* para Fate**](Core-draft-Fading-Suns-Guia-de-Conversao-Tabela.txt.md) se encontra em outra página deste projeto.
 
 ### *Blessings* e *Curses*
 
@@ -171,3 +177,36 @@ Isso dito, a [**Tabela de conversão das *Blessings* e *Curses* de *Fading Suns*
 
 ### *Benefices* e *Afflictions*
 *Benefices* e *Afflicions* representam vantagens e desvantagens que os personagens de *Fading Suns* desfrutam em virtude de sua posição social. Ao contrário das *Skills*, *Blessings* e *Curses*, a maioria dos *Benefices* e *Afflictions* funciona melhor como *Extras* ou *Aspects*. Considerando que oferecer aqui uma lista concisa de conversão dos *Benefices* e *Afflictions* provavelmente resultará em um texto confuso, esse assunto será melhor detalhado em [**Conversão de *Benefices* e *Afflictions* de *Fading Suns* para Fate**](Core-draft-Fading-Suns-Guia-de-Conversao-Benefices-Afflictions.txt.md).
+
+
+### *Vitality* e *Wyrd*
+Os *Traits* *Vitality* e *Wyrd* são, em certa medida, os que mais se distanciarão de sua forma original nesta conversão. *Vitality*, a medida de quanto dano físico um personagem é capaz de suportar e relacionada à *Characteristic* *Endurance*, converter-se-á nos *Stress boxes* e *Consequences* usuais de Fate, e como o usual valores altos nas *Skills* *Physique* e *Will* garantirem mais *Stress boxes* ou *Consequences* para um personagem.
+
+*Wyrd* por sua vez converter-se-á diretamente nos *Fate Points* de um personagem. A função da *Wyrd* em *Fading Suns* é alimentar poderes especiais, como alguns *psychic powers*, permitir re-rolagem de dados em certas situações ou permitir que o jogador determine elementos menores do cenário. Assim descritos, os *Wyrd points* funcionam da mesma maneira que os *Fate Points*, e por isso serão tratados de maneira similar. Considerando o alto *Refresh* inicial, é possível que um personagem comece com mais *Fate Points* do que *Wyrd points* que ele teria caso fosse criado usando o sistema original de *Fading Suns*.
+
+### *Occult powers*
+
+*Occult powers* em *Fading Suns* são todos os poderes sobrenaturais disponíveis aos personagens. Eles se dividem em três grupos:
+
+#### *Psychic powers*
+
+*Psychic powers* em *Fadins Suns* descrevem os poderes psíquicos disponíveis para os personagens. Eles são agrupados em *Paths*, e os poderes de cada *Path* são hierarquizados em forma de árvore: não é possível adquirir um poder de nível mais elevado sem antes adquirir os poderes de nível menos elevado. Desta forma, parece apenas sensato definir que os *Psychic powers* serão convertidos em *Stunts trees*, cada uma representando um *Path*. Para a conversão detalhada dos *Psychic Powers*, veja a página [Conversão dos *Psychic Powers* de *Fading Suns* para Fate](Extras/Core-draft-Fading-Suns-para-Fate-Psychic.txt.md).
+
+#### *Theurgy rituals*
+
+Os *Theurgy rituals* em *Fading Suns* são os poderes da fé disponíveis para os personagens. Eles são agrupados por *Church sect* que os pratica (*Brother Battle*, *Eskatonic Order*, etc.), além de existir um grupo comum a todos os *Sects*. Assim, seguindo a racionalização aplicada para os *Psychic powers* os *Theurgy rituals* serão convertidos para *Stunts trees*. Para melhor detalhamento da conversão consultar [Conversão dos *Theurgy rituals* de *Fading Suns* para Fate](Extras/Core-draft-Fading-Suns-para-Fate-Theurgy.txt.md)
+
+#### *Antinomy spells*
+
+Dos três grupos de *occult powers*, os *Antinomy spells* certamente são os que foram menos descritos. Definidos como poderes que personagens em *Fading Suns* podem adquirir traficando com demônios, a criação e definição precisa dos poderes individuais é deixado ao encargo do *Game Master*. O livro básico de *Fading Suns* descreve na parte dedicada aos *Antinomy spells* uma cosmogonia interessante baseada na Árvore da Vida da Kabbalah, associando os *Theurgy rituals* aos Sephirot e os *Antinomy spells* aos Qlippoth, ou Qliphoth. Sendo assim, os *Antinomy spells* estariam organizados em uma estrutura hierárquica, onde o décimo nível (o hierarquicamente inferior) está ligado ao primeiro nível hierárquico dos *Theurgy rituals* (dada a correspondência entre a sephirot Malkuth e o qliphot Nehemoth), e conforme se "desce" na hierarquia dos Qliphoth se adquire as *Antinomy spells* mais poderosas.
+
+Como a criação dos *Antinomy spells* é deixada ao encargo do *Game Master*, e a sugestão do livro básico de *Fading Suns* envolve conceitos não triviais da Kabbalah, sugere-se ao leitor a criação de seus próprios *Antinomy spells* baseados nos Qliphoth e na estrutura geral seguida para os demais *Occult powers*.
+
+#### Estrutura geral da conversão dos *Occult Powers* de *Fading Suns* para *Fate*
+
+A conversão dos *Occult powers* de *Fading Suns* para Fate seguiu as seguintes diretrizes:
+
+1. Cada grupo de *Occult powers* foi tratado como um *Extra* com os seguintes custos:
+  * *High Concept* associando o personagem ao *Occult power*;
+  * *Trouble* associado ao *Stigma* do personagem;
+1. Os poderes dentro de um determinado *Occult power* foram convertidos em *Stunts trees* obedecendo às divisões e hierarquizações já existentes entre eles (*Paths* dos *psychic powers*, *theurgy rituals* de cada *Church sect*).
